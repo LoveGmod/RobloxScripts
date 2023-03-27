@@ -9,7 +9,7 @@ Mettez les 4 scripts suivants :
 *removeUserWhitelist*
 *removeUserWhitelistServer*
 
-Dans les fichiers de commandes __Cmdr__.
+Dans les fichiers de commandes **Cmdr**.
 
 Mettez le script *ServerScriptService* (que vous pouvez renommer en "Whitelist" par exemple) dans le **ServerScriptService**.
 
