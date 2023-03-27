@@ -4,10 +4,10 @@
 
 Mettez les 4 scripts suivants :
 
-*addUserWhitelist*
-*addUserWhitelistServer*
-*removeUserWhitelist*
-*removeUserWhitelistServer*
+*addUserWhitelist* /
+ / *addUserWhitelistServer*
+ / *removeUserWhitelist*
+ / *removeUserWhitelistServer*
 
 Dans les fichiers de commandes **Cmdr**.
 
