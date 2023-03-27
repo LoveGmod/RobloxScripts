@@ -4,7 +4,7 @@
 
 Mettez les 4 scripts suivants :
 
-*addUserWhitelist* /
+*addUserWhitelist*
  / *addUserWhitelistServer*
  / *removeUserWhitelist*
  / *removeUserWhitelistServer*
