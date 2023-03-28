@@ -1,20 +1,20 @@
---[[
-⚠REQUIERT CMDR⚠
-⚠REQUIERT CMDR⚠
-⚠REQUIERT CMDR⚠
+[**⚠REQUIERT CMDR⚠**](https://eryn.io/Cmdr/)
+[**⚠REQUIERT CMDR⚠**](https://eryn.io/Cmdr/)
+[**⚠REQUIERT CMDR⚠**](https://eryn.io/Cmdr/)
 
-Mettez les 4 scripts
+Téléchargez le fichier *whitelist.rbxm* puis importez le dans votre jeu.
 
--addUserWhitelist
--addUserWhitelistServer
--removeUserWhitelist
--removeUserWhitelistServer
+Mettez les 4 scripts suivants :
 
-Dans les fichiers de commandes Cmdr.
+*addUserWhitelist*
+ / *addUserWhitelistServer*
+ / *removeUserWhitelist*
+ / *removeUserWhitelistServer*
 
-Mettez le script "ServerScriptService" (que vous pouvez renommer en "Whitelist" par exemple) dans le ServerScriptService.
+Dans les fichiers de commandes **Cmdr**.
+
+Mettez le script *ServerScriptService* (que vous pouvez renommer en "Whitelist" par exemple) dans le **ServerScriptService**.
 
 C'est tout !
 
-Comme d'habitude pour toutes questions venez sur discord ! Love Gmod#0001
-]]
+Comme d'habitude pour toutes questions venez sur discord ! **Love Gmod#0001**
