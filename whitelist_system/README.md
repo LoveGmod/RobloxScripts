@@ -1,6 +1,6 @@
-[**⚠REQUIERT CMDR⚠**](https://eryn.io/Cmdr/)
-[**⚠REQUIERT CMDR⚠**](https://eryn.io/Cmdr/)
-[**⚠REQUIERT CMDR⚠**](https://eryn.io/Cmdr/)
+[**⚠REQUIERT CMDR⚠**](https://www.youtube.com/watch?v=s2V-UhGsxGI)
+[**⚠REQUIERT CMDR⚠**](https://www.youtube.com/watch?v=s2V-UhGsxGI)
+[**⚠REQUIERT CMDR⚠**](https://www.youtube.com/watch?v=s2V-UhGsxGI)
 
 Téléchargez le fichier *whitelist.rbxm* puis importez le dans votre jeu.
 
