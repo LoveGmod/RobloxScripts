@@ -1,3 +1,4 @@
+# Installation
 Téléchargez le fichier *whitelist.rbxm* puis importez le dans votre jeu.
 
 Mettez les 4 scripts suivants :
