@@ -1,3 +1,4 @@
+#Installation
 Téléchargez le fichier *admins.rbxm* puis importez le dans votre jeu.
 
 Mettez les 4 scripts suivants :
