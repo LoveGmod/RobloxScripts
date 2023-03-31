@@ -12,6 +12,8 @@ License Crative Commons CC-BY-NC-ND, toutes les infos ici : https://creativecomm
 3.1.Fraire la même étape avec tous les autres dossiers.
 3.2.Attention au dossier "StarterPlayer" à bien mettre le contenu du dossier "StarterPlayerScripts" dans le bon endroit.
 
-4.Allez dans ServerScriptService -> LG_WARN_SYSTEM -> Config puis configurez selon vos envies.
+4. Aller dans la paramètres de votre jeu -> Sécurité et cochez le 2ème paramètre (Autoriser l'accès à Roblox Studio aux serveurs API).
+
+5.Allez dans ServerScriptService -> LG_WARN_SYSTEM -> Config puis configurez selon vos envies.
 
 C'est fait ! Pour toutes questions ou report de bug ajoutez moi sur discord ! Love Gmod#0001
