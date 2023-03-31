@@ -8,7 +8,7 @@ License Crative Commons CC-BY-NC-ND, toutes les infos ici : https://creativecomm
 1.Téléchargez le fichier "lg_warn_system.rbxm"
 2.Importez le sur votre jeu
 
-3.Mettre le contenu du dossier "ServerScriptService" dans le ServerScriptService
+3.Mettre le contenu du dossier "ServerScriptService" dans le ServerScriptService\n
 3.1.Fraire la même étape avec tous les autres dossiers.
 3.2.Attention au dossier "StarterPlayer" à bien mettre le contenu du dossier "StarterPlayerScripts" dans le bon endroit.
 
