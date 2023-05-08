@@ -5,6 +5,8 @@ License Crative Commons CC-BY-NC-ND, toutes les infos ici : https://creativecomm
 
 Présentation : https://youtube.com/watch?v=kNZlOznO7V4
 
+Release : https://github.com/LoveGmod/RobloxScripts/releases/tag/lg-warn-system
+
 # Installation
 
 1.Téléchargez le fichier "lg_warn_system.rbxm"
